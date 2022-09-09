@@ -1,7 +1,10 @@
 #include <stdio.h>
 /**
- * Function to print alphabet in lowercase using `putchar`
- */
+ * main - main block
+ * Description: function to print alphabet in lowercase using `putchar`
+ * Return: 0
+ */ 
+
 int main(void)
 {
 	char c = 'a';
