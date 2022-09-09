@@ -4,7 +4,6 @@
  * Description: function to print alphabet in lowercase using `putchar`
  * Return: 0
  */ 
-
 int main(void)
 {
 	char c = 'a';
